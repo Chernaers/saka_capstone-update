@@ -1,0 +1,71 @@
+,derived_race,denial_reason,% of Denials
+0,2 or more minority races,Collateral,3.225806451612903
+1,2 or more minority races,Credit History,51.61290322580645
+2,2 or more minority races,DTI,16.129032258064516
+3,2 or more minority races,Employment History,6.451612903225806
+4,2 or more minority races,Incomplete Application,6.451612903225806
+5,2 or more minority races,Insufficient Assets,3.225806451612903
+6,2 or more minority races,Other,12.903225806451612
+7,American Indian or Alaska Native,Collateral,9.482758620689655
+8,American Indian or Alaska Native,Credit History,32.758620689655174
+9,American Indian or Alaska Native,DTI,21.551724137931032
+10,American Indian or Alaska Native,Employment History,1.7241379310344827
+11,American Indian or Alaska Native,Incomplete Application,15.517241379310345
+12,American Indian or Alaska Native,Insufficient Assets,2.586206896551724
+13,American Indian or Alaska Native,Other,11.206896551724139
+14,American Indian or Alaska Native,Unverifiable Information,5.172413793103448
+15,Asian,Collateral,9.344660194174757
+16,Asian,Credit History,16.38349514563107
+17,Asian,DTI,35.07281553398058
+18,Asian,Employment History,0.9708737864077669
+19,Asian,Incomplete Application,20.145631067961165
+20,Asian,Insufficient Assets,3.3980582524271843
+21,Asian,Other,9.101941747572816
+22,Asian,Unverifiable Information,5.582524271844661
+23,Black or African American,Collateral,7.505863956215794
+24,Black or African American,Credit History,33.26817826426896
+25,Black or African American,DTI,28.57701329163409
+26,Black or African American,Employment History,1.2118842845973417
+27,Black or African American,Incomplete Application,13.174354964816262
+28,Black or African American,Insufficient Assets,2.580140734949179
+29,Black or African American,Other,10.672400312744331
+30,Black or African American,Unverifiable Information,3.0101641907740424
+31,Free Form Text Only,Credit History,44.44444444444444
+32,Free Form Text Only,DTI,11.11111111111111
+33,Free Form Text Only,Incomplete Application,11.11111111111111
+34,Free Form Text Only,Other,22.22222222222222
+35,Free Form Text Only,Unverifiable Information,11.11111111111111
+36,Joint,Collateral,10.526315789473683
+37,Joint,Credit History,29.82456140350877
+38,Joint,DTI,22.45614035087719
+39,Joint,Employment History,1.7543859649122806
+40,Joint,Incomplete Application,12.982456140350877
+41,Joint,Insufficient Assets,2.807017543859649
+42,Joint,Other,14.736842105263156
+43,Joint,Unverifiable Information,4.912280701754386
+44,Native Hawaiian or Other Pacific Islander,Collateral,11.11111111111111
+45,Native Hawaiian or Other Pacific Islander,Credit History,24.074074074074073
+46,Native Hawaiian or Other Pacific Islander,DTI,31.48148148148148
+47,Native Hawaiian or Other Pacific Islander,Employment History,1.8518518518518516
+48,Native Hawaiian or Other Pacific Islander,Incomplete Application,7.4074074074074066
+49,Native Hawaiian or Other Pacific Islander,Insufficient Assets,3.7037037037037033
+50,Native Hawaiian or Other Pacific Islander,Other,14.814814814814813
+51,Native Hawaiian or Other Pacific Islander,Unverifiable Information,5.555555555555555
+52,Race Not Available,Collateral,10.518854550609582
+53,Race Not Available,Credit History,17.8338531329742
+54,Race Not Available,DTI,28.23929685284945
+55,Race Not Available,Employment History,1.8712787071165298
+56,Race Not Available,Incomplete Application,24.525092146299972
+57,Race Not Available,Insufficient Assets,2.7502126453076268
+58,Race Not Available,Mortgage Insurance Denied,0.05670541536716756
+59,Race Not Available,Other,8.959455628012474
+60,Race Not Available,Unverifiable Information,5.245250921463
+61,White,Collateral,11.28146453089245
+62,White,Credit History,24.462242562929063
+63,White,DTI,28.466819221967967
+64,White,Employment History,1.5102974828375286
+65,White,Incomplete Application,16.803966437833715
+66,White,Insufficient Assets,2.9900839054157133
+67,White,Mortgage Insurance Denied,0.007627765064836004
+68,White,Other,9.702517162471395
+69,White,Unverifiable Information,4.774980930587338
