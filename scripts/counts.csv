@@ -1,0 +1,84 @@
+,denial_reason,derived_race,count
+0,Collateral,2 or more minority races,11
+1,Collateral,American Indian or Alaska Native,48
+2,Collateral,Asian,129
+3,Collateral,Black or African American,604
+4,Collateral,Joint,69
+5,Collateral,Native Hawaiian or Other Pacific Islander,16
+6,Collateral,Race Not Available,1213
+7,Collateral,White,4802
+8,Credit History,2 or more minority races,53
+9,Credit History,American Indian or Alaska Native,151
+10,Credit History,Asian,260
+11,Credit History,Black or African American,3132
+12,Credit History,Free Form Text Only,7
+13,Credit History,Joint,310
+14,Credit History,Native Hawaiian or Other Pacific Islander,35
+15,Credit History,Race Not Available,2078
+16,Credit History,White,12757
+17,DTI,2 or more minority races,26
+18,DTI,American Indian or Alaska Native,98
+19,DTI,Asian,560
+20,DTI,Black or African American,1978
+21,DTI,Free Form Text Only,3
+22,DTI,Joint,189
+23,DTI,Native Hawaiian or Other Pacific Islander,33
+24,DTI,Race Not Available,2550
+25,DTI,White,10723
+26,Employment History,2 or more minority races,6
+27,Employment History,American Indian or Alaska Native,4
+28,Employment History,Asian,24
+29,Employment History,Black or African American,105
+30,Employment History,Joint,19
+31,Employment History,Native Hawaiian or Other Pacific Islander,1
+32,Employment History,Race Not Available,162
+33,Employment History,White,713
+34,Incomplete Application,2 or more minority races,13
+35,Incomplete Application,American Indian or Alaska Native,45
+36,Incomplete Application,Asian,295
+37,Incomplete Application,Black or African American,926
+38,Incomplete Application,Free Form Text Only,1
+39,Incomplete Application,Joint,100
+40,Incomplete Application,Native Hawaiian or Other Pacific Islander,12
+41,Incomplete Application,Race Not Available,2211
+42,Incomplete Application,White,6156
+43,Insufficient Assets,2 or more minority races,3
+44,Insufficient Assets,American Indian or Alaska Native,12
+45,Insufficient Assets,Asian,58
+46,Insufficient Assets,Black or African American,211
+47,Insufficient Assets,Joint,14
+48,Insufficient Assets,Native Hawaiian or Other Pacific Islander,6
+49,Insufficient Assets,Race Not Available,249
+50,Insufficient Assets,White,1123
+51,Mortgage Insurance Denied,American Indian or Alaska Native,1
+52,Mortgage Insurance Denied,Asian,1
+53,Mortgage Insurance Denied,Black or African American,3
+54,Mortgage Insurance Denied,Race Not Available,6
+55,Mortgage Insurance Denied,White,15
+56,NA,2 or more minority races,476
+57,NA,American Indian or Alaska Native,1519
+58,NA,Asian,12020
+59,NA,Black or African American,32639
+60,NA,Free Form Text Only,25
+61,NA,Joint,6230
+62,NA,Native Hawaiian or Other Pacific Islander,472
+63,NA,Race Not Available,120430
+64,NA,White,327324
+65,Other,2 or more minority races,14
+66,Other,American Indian or Alaska Native,43
+67,Other,Asian,143
+68,Other,Black or African American,716
+69,Other,Free Form Text Only,2
+70,Other,Joint,80
+71,Other,Native Hawaiian or Other Pacific Islander,14
+72,Other,Race Not Available,934
+73,Other,White,3666
+74,Unverifiable Information,2 or more minority races,4
+75,Unverifiable Information,American Indian or Alaska Native,17
+76,Unverifiable Information,Asian,90
+77,Unverifiable Information,Black or African American,270
+78,Unverifiable Information,Free Form Text Only,1
+79,Unverifiable Information,Joint,39
+80,Unverifiable Information,Native Hawaiian or Other Pacific Islander,6
+81,Unverifiable Information,Race Not Available,588
+82,Unverifiable Information,White,2319

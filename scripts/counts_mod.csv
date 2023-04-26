@@ -1,0 +1,47 @@
+,denial_reason,derived_race,count
+0,Collateral,2 or more minority races,11
+1,Collateral,American Indian or Alaska Native,48
+2,Collateral,Asian,129
+3,Collateral,Black or African American,604
+5,Collateral,Native Hawaiian or Other Pacific Islander,16
+7,Collateral,White,4802
+8,Credit History,2 or more minority races,53
+9,Credit History,American Indian or Alaska Native,151
+10,Credit History,Asian,260
+11,Credit History,Black or African American,3132
+14,Credit History,Native Hawaiian or Other Pacific Islander,35
+16,Credit History,White,12757
+17,DTI,2 or more minority races,26
+18,DTI,American Indian or Alaska Native,98
+19,DTI,Asian,560
+20,DTI,Black or African American,1978
+23,DTI,Native Hawaiian or Other Pacific Islander,33
+25,DTI,White,10723
+26,Employment History,2 or more minority races,6
+27,Employment History,American Indian or Alaska Native,4
+28,Employment History,Asian,24
+29,Employment History,Black or African American,105
+31,Employment History,Native Hawaiian or Other Pacific Islander,1
+33,Employment History,White,713
+34,Incomplete Application,2 or more minority races,13
+35,Incomplete Application,American Indian or Alaska Native,45
+36,Incomplete Application,Asian,295
+37,Incomplete Application,Black or African American,926
+40,Incomplete Application,Native Hawaiian or Other Pacific Islander,12
+42,Incomplete Application,White,6156
+43,Insufficient Assets,2 or more minority races,3
+44,Insufficient Assets,American Indian or Alaska Native,12
+45,Insufficient Assets,Asian,58
+46,Insufficient Assets,Black or African American,211
+48,Insufficient Assets,Native Hawaiian or Other Pacific Islander,6
+50,Insufficient Assets,White,1123
+51,Mortgage Insurance Denied,American Indian or Alaska Native,1
+52,Mortgage Insurance Denied,Asian,1
+53,Mortgage Insurance Denied,Black or African American,3
+55,Mortgage Insurance Denied,White,15
+74,Unverifiable Information,2 or more minority races,4
+75,Unverifiable Information,American Indian or Alaska Native,17
+76,Unverifiable Information,Asian,90
+77,Unverifiable Information,Black or African American,270
+80,Unverifiable Information,Native Hawaiian or Other Pacific Islander,6
+82,Unverifiable Information,White,2319

@@ -23,7 +23,7 @@ Racially restrictive covenants came into being as a private method of maintainin
 
 As a result of redlining, whites moved to the suburbs, leaving non-whites in the downtown urban areas of the city. In 1954, a federal policy known as urban renewal was established by the Housing Act, which created new requirements for cities to develop actionable revitalization plans. Federal funding is provided to cities to improve the attractiveness and property values of specific geographic areas rather than improving the lives of the residents. This term is called “sum clearing,” which is widespread displacement and dispersal of historical communities with deep social ties. Urban renewal projects use eminent domain to acquire private homes that were usually deemed sub-standard. Oftentimes the homeowners were promised they would be compensated for their property and helped with relocation, however, in many cases, homeowners didn’t see any assistance. They became renters without receiving a fair market value for their seized properties. Residents who lost their homes were forced to live in outlying areas putting them further away from jobs, transportation, and social spaces.
 ## Motivation 
-By Trade, I have spent close to 2 decades within Mortgage Underwriting. I have seen cases of disparate impact on borrowers due to policies and procedures utlitized by mortgage originators in effort to "hedge risks". I am also an African American homeowner and a lover of history. We see as a nation the impact that discrimination on certain ethinic groups can have upon the entire society. My motivation and quest is to determine if the concept of redlining (in its various forms) are still occuring today. 
+By trade, I have spent close to 2 decades within Mortgage Underwriting. I have seen cases of disparate impact on borrowers due to policies and procedures utlitized by mortgage originators in effort to "hedge risks". I am also an African American homeowner and a lover of history. We see as a nation the impact that discrimination on certain ethinic groups can have upon the entire society. My motivation and quest is to determine if the concept of redlining (in its various forms) are still occuring today. 
 ## Data Question
 The old saying goes “history always repeats itself.” Could it be that redlining is occurring again in Nashville and Memphis, TN under the guise of gentrification?
 ## Methodology
@@ -76,7 +76,7 @@ As part of the exploration analysis stage, I used Matplotlib and Seaborn in Pyth
 
 •	https://data.nashville.gov/Licenses-Permits/Building-Permits-Issued/3h5w-q8b7
 
-
+•	https://www.washingtonpost.com/business/2020/10/23/redlining-black-wealth/
 
 
 
