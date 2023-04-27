@@ -12,7 +12,7 @@
 6.	Data Sources
 
 ## History
-Redlining is the illegal and discriminatory practice of the denial of services like (i.e. mortgage loans) based on race. The term “redlining” originates from the New Deal policy put into effect by President Roosevelt in 1933. Off the heels from the Great Depression, there was a housing shortage. The federal government sponsored a program that was designed to increase segregation amoung American’s Real Estate. In 1934 the Federal Housing Administration was created to spearhead this initiative along with the Home Owner’s Corporation which classified mapped areas by color: 
+Redlining is the illegal and discriminatory practice of the denial of services like (i.e. mortgage loans) based on race. The term “redlining” originates from the New Deal policy put into effect by President Roosevelt in 1933. Off the heels from the Great Depression, there was a housing shortage. The federal government sponsored a program that was designed to increase segregation among American’s Real Estate. In 1934 the Federal Housing Administration was created to spearhead this initiative along with the Home Owner’s Corporation which classified mapped areas by color: 
 #### •	Green (Best) 
 #### •	Blue (Still Desirable)  
 #### •	Yellow (Declining)
@@ -21,11 +21,11 @@ Homes in the red were not insured by the Federal Government. Federal Housing Adm
 
 Racially restrictive covenants came into being as a private method of maintaining racial separation. However, in 1948, Federal Courts ruled in Shelley v. Kraemer racially restrictive covenants unconstitutional; individuals could enter into such contracts, but courts could not enforce them. In 1968, President Lyndon Johnson signed into effect the Fair Housing Act which prohibits discrimination regarding the sale, rental, and financing of housing based of race, religion, national origin, sex, handicap, and family status. Racially restrictive covenants on deeds were deemed illegal, however, such language can still be found on deeds today. 				
 
-As a result of redlining, whites moved to the suburbs, leaving non-whites in the downtown urban areas of the city. In 1954, a federal policy known as urban renewal was established by the Housing Act, which created new requirements for cities to develop actionable revitalization plans. Federal funding is provided to cities to improve the attractiveness and property values of specific geographic areas rather than improving the lives of the residents. This term is called “sum clearing,” which is widespread displacement and dispersal of historical communities with deep social ties. Urban renewal projects use eminent domain to acquire private homes that were usually deemed sub-standard. Oftentimes the homeowners were promised they would be compensated for their property and helped with relocation, however, in many cases, homeowners didn’t see any assistance. They became renters without receiving a fair market value for their seized properties. Residents who lost their homes were forced to live in outlying areas putting them further away from jobs, transportation, and social spaces.
+As a result of redlining, whites moved to the suburbs, leaving non-whites in the downtown urban areas of the city. In 1954, a federal policy known as "urban renewal" was established by the Housing Act, which created new requirements for cities to develop actionable revitalization plans. Federal funding is provided to cities to improve the attractiveness and property values of specific geographic areas rather than improving the lives of the residents. This term is called “sum clearing,” which is widespread displacement and dispersal of historical communities with deep social ties. Urban renewal projects use eminent domain to acquire private homes that were usually deemed sub-standard. Oftentimes the homeowners were promised they would be compensated for their property and helped with relocation, however, in many cases, homeowners didn’t see any assistance. They became renters without receiving a fair market value for their seized properties. Residents who lost their homes were forced to live in outlying areas putting them further away from jobs, transportation, and social spaces.
 ## Motivation 
 By trade, I have spent close to 2 decades within Mortgage Underwriting. I have seen cases of disparate impact on borrowers due to policies and procedures utlitized by mortgage originators in effort to "hedge risks". I am also an African American homeowner and a lover of history. We see as a nation the impact that discrimination on certain ethinic groups can have upon the entire society. My motivation and quest is to determine if the concept of redlining (in its various forms) are still occuring today. 
 ## Data Question
-The old saying goes “history always repeats itself.” Could it be that redlining is occurring again in Nashville and Memphis, TN under the guise of gentrification?
+The old saying goes “history always repeats itself.” Could it be that redlining is occurring again in Nashville, TN under the guise of gentrification?
 ## Methodology
 ### Gathering the Data
 I started in search of a definition for redlining to refresh my understanding and the scope of this issue. I looked to multiple peer review articles and journals regarding redlining in the U.S. and specifically the state of Tennessee along with its implications throughout the years. By law, financial institutions must maintain, report, and publicly disclose loan-level information about mortgages. HMDA is the Home Mortgage Disclosure Act which was enacted in 1975 by Congress and is implemented by Regulation C. I was able to pull HMDA datasets for the state of Tennessee through their website. 
@@ -38,7 +38,9 @@ Alhtough the data for declined applications is small relative to the amount of a
 
 I was able to pull a map from the 1930s drawn by the Home Owner’s Loan Corporation that revealed that Downtown Memphis-38103, South Memphis-38106, Orange Mound-38114,	Binghampton-38112, Frayser-38127, North Memphis-38107, Parkway Village-38118 were deemed "hazardous". For Nashville East Nashville-37206 and 37216, North Nashville-37208 and 37207, South Nashville-37211 and 37204, Germantown-37208, Edgehill-37212, Hadley Park-37208 we deemed “hazardous.” 
 
-I was able to pull a Building Permit Issued dataset from Nashville.gov. Although I did not dive deep into this topic, it is still one of interest worth conducting a meaningful analysis. The data covers a 3 year period, therefore, I believe in order to determine any trends or points of interest more data is needed (a 10 year period at minimum).  
+I was able to pull a Building Permit Issued dataset from Nashville.gov. Although I did not dive deep into this topic, it is still a topic of interest and worthy of  conducting a meaningful analysis. The data covers a 3 year period, therefore, I believe in order to determine any trends or points of interest more data is needed (a 10 year period at minimum).  
+
+I also pulled recent listings from Zillow in the former redlined areas in Nashville.
 ### Analyzing the Data
 From the HMDA dataset the data is for the year 2021 and it is includes data gathered from The majority of the mortgages are conventional. 
 The top 40 banks and financial institutions took 345,273 (61.17%) applications in 2021, but the remaining institutions took 219,138 (38.83%) applications in 2021. I considered banks and financial institutions that were considered major players in the mortgage industry. 
@@ -78,6 +80,10 @@ As part of the exploration analysis stage, I used Matplotlib and Seaborn in Pyth
 
 •	https://www.washingtonpost.com/business/2020/10/23/redlining-black-wealth/
 
+•	https://www.zillow.com/nashville-tn/
 
 
+
+## Tableau Story
+https://public.tableau.com/views/redlining_capstone/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
